@@ -1,0 +1,7 @@
+# Keil 个人工程选项和界面布局
+MDK-ARM/*.uvoptx
+MDK-ARM/*.uvguix.*
+
+# Keil 编译输出
+MDK-ARM/keil_proj_demo/
+MDK-ARM/startup_stm32f405xx.lst
